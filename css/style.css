@@ -1,0 +1,127 @@
+h1 {
+    text-align: center;
+    color: purple;
+    border: 1px solid black;
+    background: orange;
+}
+body {
+    background: #e5ccbe;
+}
+div {
+    border:1px solid black;
+}
+#save {
+    margin-left: 600px;
+    background-color:  #995d3b;
+    border-radius: 10px;
+    width:350px;
+    margin-top: 680px;
+    height:50px;
+}
+#send {
+    margin-top: 10px;
+    background-color:  red;
+    border-radius: 10px;
+    width:350px;
+    margin-left: 600px;
+    height:50px;
+}
+.parent {
+    left: 0;
+    width: 600px;
+    height:600px;
+    position: absolute;
+}
+.batya {
+    position: relative;
+}
+.others {
+    position: absolute;
+    left: 750px;
+    top:100px;
+}
+#first {
+    position: absolute;
+    top:0;
+    left: 0;
+    right: 400px;
+    height:200px;
+}
+#second {
+    position: absolute;
+    top:0;
+    left: 200px;
+    right: 200px;
+    height:200px;
+}
+#third {
+    position: absolute;
+    top:0;
+    left: 400px;
+    right: 0;
+    height:200px;
+}
+#fourth {
+     position: absolute;
+     top: 200px;
+     left: 0;
+     right: 400px;
+     height:200px;
+ }
+#fifth {
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    right: 200px;
+    height:200px;
+}
+#sixth {
+    position: absolute;
+    top: 200px;
+    left: 400px;
+    right: 0;
+    height:200px;
+}
+
+#seventh {
+    position: absolute;
+    top:400px;
+    left: 0;
+    right: 400px;
+    height:200px;
+}
+
+#eightth {
+    position: absolute;
+    top:400px;
+    left: 200px;
+    right: 200px;
+    height:200px;
+}
+#nineth {
+    position: absolute;
+    top:400px;
+    left: 400px;
+    right: 0px;
+    height:200px;
+}
+select {
+    font-size:30px;
+    width: 180px;
+    height: 40px;
+    margin-top:50px;
+    margin-bottom:10px;
+}
+.others {
+    padding-left:60px;
+    width: 800px;
+    height: 190px;
+    border-radius: 3px;
+    background: #995d3b;
+}
+#vvod {
+    text-align: center;
+    font-size:20px;
+    width:730px;
+    height:40px;
+}

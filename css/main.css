@@ -1,0 +1,65 @@
+
+
+
+
+#parent
+{
+  position: relative;
+  background: lime;
+  width: 600px;
+  height: 600px;
+}
+.border {
+  border: solid 1px black;
+}
+#block1
+{
+  position: absolute;
+  background: blue;
+  top: 0;
+  left: 0;
+  right: 200px;
+  height: 400px;
+}
+
+#block2 {
+  position: absolute;
+  background: green;
+  bottom: 0;
+  left: 200px;
+  right: 0;
+  height: 200px;
+}
+#block3 {
+  position: absolute;
+  background: red;
+  top: 0;
+  left: 400px;
+  right: 0;
+  height: 200px;
+}
+#block4 {
+  position: absolute;
+  background: red;
+  bottom: 200px;
+  top: 200px;
+  left: 400px;
+  right: 0;
+  height: 200px;
+}
+#block5 {
+  position: absolute;
+  background: red;
+  bottom: 0;
+  left: 0px;
+  right: 400px;
+  height: 200px;
+}
+.col-lg-4 {
+  border: 2px solid black;
+  height: 200px;
+  text-align: center;
+}
+.col-lg-4 h3 {
+  padding-top: 75px;
+}
